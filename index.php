@@ -8,5 +8,6 @@
 <body>
 	<h1> hehooo</h1>
 	<p> Lalala store adalah .. </p>
+	<h2> hoheee</h2>
 </body>
 </html>
